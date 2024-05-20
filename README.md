@@ -1,4 +1,4 @@
-[Link to TensorFlow Projector][https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/haseebrj17/NLPModel/main/projector_config.json]
+[Link to TensorFlow Projector](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/haseebrj17/NLPModel/main/projector_config.json)
 
 ---
 
